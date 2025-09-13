@@ -3,6 +3,7 @@ import pytest
 from constants import BASE_URL, API_KEY
 
 
+# Изменение1
 # Авторизация
 @pytest.fixture
 def headers():
