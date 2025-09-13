@@ -5,8 +5,6 @@ from webdriver_manager.firefox import GeckoDriverManager
 from page.PageUI import PageUI
 # import allure
 
-# Изменение1
-
 
 @pytest.fixture
 def driver():
